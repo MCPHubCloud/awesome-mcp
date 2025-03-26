@@ -281,3 +281,14 @@ Tools and integrations that enhance the development workflow and environment man
 - [awwaiid/mcp-server-taskwarrior](https://github.com/awwaiid/mcp-server-taskwarrior) - An MCP server for basic local taskwarrior usage (add, update, remove tasks)
 - [Sequential Thinking MCP Server](https://github.com/modelcontextprotocol/servers/tree/HEAD/src/sequentialthinking) - An MCP server implementation that provides a tool for dynamic and reflective problem-solving through a structured thinking process.
 - [AgentQL MCP Server](https://github.com/tinyfish-io/agentql-mcp) - Model Context Protocol server that integrates AgentQL's data extraction capabilities.
+
+
+## Star History
+
+<a href="https://www.star-history.com/#MCPHubCloud/awesome-mcp&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=MCPHubCloud/awesome-mcp&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=MCPHubCloud/awesome-mcp&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MCPHubCloud/awesome-mcp&type=Date" />
+ </picture>
+</a>
