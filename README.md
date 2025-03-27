@@ -1,5 +1,8 @@
 # awesome-mcp
-collection of **Model Context Protocol** (MCP) servers/clients
+A collection of **Model Context Protocol** (MCP) servers/clients. 
+The project is actively maintained and welcomes contributions or pull requests (PRs) to help improve it further
+
+**mcphub.cloud aims to hosting mcp servers to make mcp easy use for everyone. (On the way)**
 
 ## Model Context Protocol
 The Model Context Protocol (MCP), an open-standard developed by Anthropic, addresses challenges in integrating large language models (LLMs) with external data sources, tools, and resources. It standardizes how LLMs interact with these systems, simplifying tasks like input handling and data processing to enhance AI applications' practicality and security.
@@ -283,6 +286,10 @@ Tools and integrations that enhance the development workflow and environment man
 - [AgentQL MCP Server](https://github.com/tinyfish-io/agentql-mcp) - Model Context Protocol server that integrates AgentQL's data extraction capabilities.
 
 
+## MCP SDK
+- [mcp-golang](https://github.com/metoro-io/mcp-golang) - mcp-golang is an unofficial implementation of the Model Context Protocol in Go.
+
+
 ## Star History
 
 <a href="https://www.star-history.com/#MCPHubCloud/awesome-mcp&Date">
@@ -292,3 +299,7 @@ Tools and integrations that enhance the development workflow and environment man
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MCPHubCloud/awesome-mcp&type=Date" />
  </picture>
 </a>
+
+
+## Thanks
+most mcp list come from https://github.com/punkpeye/awesome-mcp-servers which is the popular awesome  project of mcps;
