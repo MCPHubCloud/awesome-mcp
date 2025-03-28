@@ -22,7 +22,7 @@ For more detail usage or develop, you can visit https://modelcontextprotocol.io/
 - 🧩 Hosted by mcp provider
 
 ### Catagory
-- 📂 - [Browser Automation](https://github.com/MCPHubCloud/awesome-mcp#📂 Browser Automation)
+- 📂 - [Browser Automation](https://github.com/MCPHubCloud/awesome-mcp#-browser-automation)
 - 🎨 - [Art & Culture](https://github.com/MCPHubCloud/awesome-mcp#-art--culture)
 - ☁️  - [Cloud Platforms](https://github.com/MCPHubCloud/awesome-mcp#%EF%B8%8F-cloud-platforms)
 - 🖥️ - [Command Line](https://github.com/MCPHubCloud/awesome-mcp#%EF%B8%8F-command-line)
