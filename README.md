@@ -193,6 +193,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) - A Model Context Protocol (MCP) server for generating a beautiful interactive mindmap.
 -  [BlenderMCP](https://github.com/ahujasid/blender-mcp) - BlenderMCP connects Blender to Claude AI through the Model Context Protocol (MCP), allowing Claude to directly interact with and control Blender. This integration enables prompt assisted 3D modeling, scene creation, and manipulation.
 - [Figma MCP Server](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - The GitHub MCP Server is a Model Context Protocol (MCP) server that provides seamless integration with GitHub APIs, enabling advanced automation and interaction capabilities for developers and tools.
 
 ### 📂 File Systems
 
