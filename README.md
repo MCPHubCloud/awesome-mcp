@@ -227,6 +227,7 @@ Tools and integrations that enhance the development workflow and environment man
 
 ### 🔎 Search
 - [Perplexity Ask MCP Server](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem
+- [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - Search scientific papers with structured experimental data extracted from full-text studies, returning 25+ fields per paper including methods, results, sample sizes, and quality scores
 - ✨[ArXiv MCP Server](https://github.com/blazickjp/arxiv-mcp-server) - The ArXiv MCP Server provides a bridge between AI assistants and arXiv's research repository through the Message Control Protocol (MCP)
 
 
