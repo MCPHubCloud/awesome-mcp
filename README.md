@@ -220,6 +220,8 @@ Tools and integrations that enhance the development workflow and environment man
 ### 🎯 Marketing
 
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - A suite of marketing tools from Open Strategy Partners including writing style, editing codes, and product marketing value map creation.
+- [toprank](https://github.com/nowork-studio/toprank) - SEO & Google Ads MCP-compatible plugin for Claude Code. Connects Google Search Console, PageSpeed Insights, and Google Ads API. ThirdParty 🖥️ Local
+
 
 ### 📊 Monitoring
 
