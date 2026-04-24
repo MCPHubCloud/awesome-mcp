@@ -235,6 +235,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [VirusTotal MCP Server](https://github.com/BurtTheCoder/mcp-virustotal) - MCP server for querying the VirusTotal API. This server provides tools for scanning URLs, analyzing file hashes, and retrieving IP address reports.
 - [ORKL MCP Server](https://github.com/fr0gger/MCP_Security) - MCP server for querying the ORKL API. This server provides tools for fetching threat reports, analyzing threat actors, and retrieving intelligence sources.
 - [Security Audit MCP Server](https://github.com/qianniuspace/mcp-security-audit) A powerful MCP (Model Context Protocol) Server that audits npm package dependencies for security vulnerabilities. Built with remote npm registry integration for real - time security checks.
+- [EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) - AES-256-GCM + Argon2id encrypted local vault for AI agent credentials. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts, logs, or LLM context.
 
 ### 🚆 Travel & Transportation
 
