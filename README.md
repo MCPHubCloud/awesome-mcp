@@ -219,6 +219,7 @@ Tools and integrations that enhance the development workflow and environment man
 
 ### 🎯 Marketing
 
+- [NotFair (Google Ads MCP)](https://github.com/nowork-studio/toprank) - NotFair is a Google Ads MCP server connecting Claude and AI agents to a Google Ads account: diagnose campaign performance (CPA, ROAS, search-term waste, quality scores), recommend optimizations (bids, budgets, negatives, ad copy), and execute approved changes via the Google Ads API with a built-in human-approval gate. Streamable-HTTP at notfair.co/api/mcp/google_ads.
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - A suite of marketing tools from Open Strategy Partners including writing style, editing codes, and product marketing value map creation.
 
 ### 📊 Monitoring
