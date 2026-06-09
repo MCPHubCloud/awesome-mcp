@@ -241,6 +241,8 @@ Tools and integrations that enhance the development workflow and environment man
 
 ### 🔄 Version Control
 
+- [masondelan/selvedge](https://github.com/masondelan/selvedge) - Live capture of *why* AI agents change code. Local SQLite, seven MCP tools including `prior_attempts` (the agent reads prior reasoning before it edits), entity-level history with reasoning. Python 3.10+, MIT. 🖥️ Local.
+
 
 ### 🛠️ Other Tools and Integrations
 
