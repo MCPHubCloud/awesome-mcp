@@ -219,6 +219,7 @@ Tools and integrations that enhance the development workflow and environment man
 
 ### 🎯 Marketing
 
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP to run audits, fix meta tags, generate schema markup, and manage keywords and bids.
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - A suite of marketing tools from Open Strategy Partners including writing style, editing codes, and product marketing value map creation.
 
 ### 📊 Monitoring
