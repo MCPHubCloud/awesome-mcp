@@ -287,6 +287,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [awwaiid/mcp-server-taskwarrior](https://github.com/awwaiid/mcp-server-taskwarrior) - An MCP server for basic local taskwarrior usage (add, update, remove tasks)
 - [Sequential Thinking MCP Server](https://github.com/modelcontextprotocol/servers/tree/HEAD/src/sequentialthinking) - An MCP server implementation that provides a tool for dynamic and reflective problem-solving through a structured thinking process.
 - [AgentQL MCP Server](https://github.com/tinyfish-io/agentql-mcp) - Model Context Protocol server that integrates AgentQL's data extraction capabilities.
+- [BuyWhere MCP Server](https://github.com/BuyWhere/buywhere-mcp) - Real-time product search and price comparison across 147M+ products from Shopee, Lazada, Amazon, Walmart, and other retailers in SG/SEA/US. Remote at `https://api.buywhere.ai/mcp` or local via `npx @buywhere/mcp-server`.
 
 
 ## MCP SDK
