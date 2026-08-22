@@ -238,6 +238,7 @@ Tools and integrations that enhance the development workflow and environment man
 
 ### 🚆 Travel & Transportation
 
+- [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) - Search peer-to-peer luxury, exotic, and EV rentals from independent hosts
 
 ### 🔄 Version Control
 
