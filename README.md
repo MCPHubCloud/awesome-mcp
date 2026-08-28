@@ -67,6 +67,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 
   
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) - Add, Analyze, Search, and Generate Video Edits from your Video Jungle Collection
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first video composition, editing, generation, and assembly toolkit with MCP support for coding agents
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) - Rijksmuseum API integration for artwork search, details, and collections
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) - A MCP server integrating AniList API for anime and manga information
 
