@@ -95,6 +95,7 @@ Run commands, capture output and otherwise interact with shells and command line
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that provides access to iTerm. You can run commands and ask questions about what you see in the iTerm terminal.
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) - Run any command with `run_command` and `run_script` tools.
 - [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) - Command line interface with secure execution and customizable security policies
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Local MCP bridge CLI for discovering and running 2,000+ AI models and APIs from supported clients
 - [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) A secure shell command execution server implementing the Model Context Protocol (MCP)
 
 ### 💬 Communication 
