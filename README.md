@@ -212,6 +212,7 @@ Tools and integrations that enhance the development workflow and environment man
 
 ### 🧠 Knowledge & Memory
 
+- [louis030195/hyperconsciousness](https://github.com/louis030195/hyperconsciousness) 🦀 🏠 - Developer-alpha encrypted knowledge store with MCP search and retrieval through scoped, expiring grants.
 
 
 ### 🗺️  Location Services
