@@ -200,6 +200,7 @@ Tools and integrations that enhance the development workflow and environment man
 
 ### 💰Finance & Fintech
 
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) - Tastyworks API integration to handle trading activities on Tastytrade
 - [ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent) - Yahoo Finance integration to fetch stock market data including options recommendations
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) - Comprehensive blockchain services for 30+ EVM networks, supporting native tokens, ERC20, NFTs, smart contracts, transactions, and ENS resolution.
