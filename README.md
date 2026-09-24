@@ -172,6 +172,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 
 Tools and integrations that enhance the development workflow and environment management.
 
+- [API.market MCP Gateway](https://api.market/api/mcp/gateway) 🧩 - Discover API operations, call APIs and check usage through a hosted Streamable HTTP gateway with OAuth or API-key authentication; free tiers and paid plans vary by API.
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - Create crafted UI components inspired by the best 21st.dev design engineers.
 - [Coment-ML/Opik-MCP](https://github.com/comet-ml/opik-mcp) - Talk to your LLM observability, traces and monitoring captured by Opik using natural language.
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - Provide coding agents direct access to Figma data to help them one-shot design implementation.
