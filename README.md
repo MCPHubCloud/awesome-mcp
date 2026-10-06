@@ -87,6 +87,7 @@ Cloud platform service integration. Enables management and interaction with clou
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) - An MCP to give access to all Netskope Private Access components within a Netskope Private Access environments including detailed setup information and LLM examples on usage.
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - A Terraform MCP server allowing AI assistants to manage and operate Terraform environments, enabling reading configurations, analyzing plans, applying configurations, and managing Terraform state.
 -  [Aws Kb Retrieval Server](https://github.com/modelcontextprotocol/servers/tree/main/src/aws-kb-retrieval-server) - An MCP server implementation for retrieving information from the AWS Knowledge Base using the Bedrock Agent Runtime.
+- [Shipvela](https://shipvela.com/integrations/assistants) - Hosted OAuth MCP for publishing supported websites and reading project status, build logs and usage; requires an account and hosting allowance, with owner confirmation for static uploads. Endpoint: `https://shipvela.com/mcp`
 
 ### 🖥️ Command Line
 
