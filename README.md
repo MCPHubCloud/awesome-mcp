@@ -220,6 +220,7 @@ Tools and integrations that enhance the development workflow and environment man
 ### 🎯 Marketing
 
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) - A suite of marketing tools from Open Strategy Partners including writing style, editing codes, and product marketing value map creation.
+- [GSCmate](https://gscmate.com) 🧩 - Hosted OAuth 2.1 MCP server for read-only Google Search Console analytics, sitemaps, and URL inspection. Streamable HTTP endpoint: `https://gscmate.com/mcp`; paid plans start at USD 19/month. [Setup repository](https://github.com/Fushey/gscmate-mcp-listing).
 
 ### 📊 Monitoring
 
