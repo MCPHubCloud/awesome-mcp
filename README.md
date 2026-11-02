@@ -223,6 +223,8 @@ Tools and integrations that enhance the development workflow and environment man
 
 ### 📊 Monitoring
 
+- [seifip/kilobat-cli](https://github.com/seifip/kilobat-cli) 🖥️ - GPL-3.0-only macOS network diagnostics CLI with a local MCP server.
+
 
 
 ### 🔎 Search
