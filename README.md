@@ -228,6 +228,7 @@ Tools and integrations that enhance the development workflow and environment man
 ### 🔎 Search
 - [Perplexity Ask MCP Server](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem
 - ✨[ArXiv MCP Server](https://github.com/blazickjp/arxiv-mcp-server) - The ArXiv MCP Server provides a bridge between AI assistants and arXiv's research repository through the Message Control Protocol (MCP)
+- [jobspipe/mcp](https://github.com/jobspipe/mcp) - Hosted MCP for live, normalized job postings from 30+ ATS feeds and job boards (`https://mcp.jobspipe.dev/mcp`). Docs: https://docs.jobspipe.dev/ai-agents/mcp
 
 
 ### 🔒 Security
