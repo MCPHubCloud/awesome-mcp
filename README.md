@@ -58,6 +58,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [@kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) - A `minimal`server/client MCP implementation using Azure OpenAI and Playwright.
 - [@pskill9/web-search](https://github.com/pskill9/web-search) - An MCP server that enables free web searching using Google search results, with no API keys required.
 - [@co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) - browser-use packaged as an MCP server with SSE transport. includes a dockerfile to run chromium in docker + a vnc server.
+- [julianosig/easi.run](https://github.com/julianosig/easi.run) - Self-hosted Chrome for external AI agents via MCP/REST, with live viewing, encrypted profiles and human takeover. AGPL-3.0-only; own Linux/Docker hosting and agent/model costs.
 - [Firecrawl MCP Server](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
 - [Fetch MCP Server](https://github.com/modelcontextprotocol/servers/src/fetch) - Web content fetching and conversion for efficient LLM usage
 
