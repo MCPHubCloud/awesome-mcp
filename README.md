@@ -292,6 +292,7 @@ Tools and integrations that enhance the development workflow and environment man
 ## MCP SDK
 - [mcp-golang](https://github.com/metoro-io/mcp-golang) - mcp-golang is an unofficial implementation of the Model Context Protocol in Go.
 - [mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) - The mcp-proxy is a tool that lets you switch between server transports. There are two supported modes: stdio-sse, sse-stdio
+- [xmcp](https://github.com/basementstudio/xmcp) - TypeScript framework for building MCP servers with file-based tools, resources, prompts, and HTTP or STDIO transport.
 
 
 ## Star History
