@@ -69,6 +69,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) - Add, Analyze, Search, and Generate Video Edits from your Video Jungle Collection
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) - Rijksmuseum API integration for artwork search, details, and collections
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) - A MCP server integrating AniList API for anime and manga information
+- [i2v-ai/i2v-mcp](https://github.com/i2v-ai/i2v-mcp) - Official MCP server for image generation and text-to-video or image-to-video across 12 image and 16 video models. Hosted at https://i2v.ai/api/mcp (OAuth 2.1) or local via npx -y @i2v-ai/cli mcp, with a USD quote before every paid task and a caller-set maxCostUsd ceiling.
 
 
 
